@@ -1,0 +1,1 @@
+CREATE database sequelize_passport
